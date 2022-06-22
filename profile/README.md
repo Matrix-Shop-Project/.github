@@ -1,9 +1,10 @@
+HEAD
 Final Project -- Ecommerce website with the MERN stack with React Context API
 ===
 Full Stack Developer
 ## DCI 
 - Sham Alhakim
-- Enza
+
 - Orhan Kadirov
 - Ventsislav Kolev
 
@@ -21,16 +22,13 @@ Full Stack Developer
 ## Use
 - for React JS
   ```
-  npm install
+  npm install react-dom
   ```
   ```
-  npm i react-dom
+  npm i axios
   ```
+  
 - for Express
   ```
-  npm install
+  npm install express dotenv mongoose nodemon cors 
   ```
-  npm i nodemon
-  ```
-
-
