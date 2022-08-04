@@ -33,3 +33,4 @@ Full Stack Developer
   npm i nodemon
   ```
 
+<img align="center" alt="Sheme" src="./MatrixShop-01.jpeg" width="800" height="auto" />
