@@ -31,3 +31,4 @@ Full Stack Developer
   ```
   npm install express dotenv mongoose nodemon cors 
   ```
+<img align="center" alt="Sheme" src="../MatrixShop-01.jpeg" width="800" height="auto" />
